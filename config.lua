@@ -37,7 +37,9 @@ extraTiles = {
 
     -- Comment out any you do not use.
         [1] = {x = 4859.6, y = -5099.9, txd = "cayo", txn = "minimap_sea_5_5", centered = true}, --Cayo
-        [2] = {x = -2043.6, y = 8171.6, txd = "roxwood", txn = "roxwood", centered = true}, --Roxwood
+        [2] = {xOffset = 0, yOffset = 0, txd = "roxwood", txn = "roxwood"}, --Roxwood
+        [3] = {xOffset = 0, yOffset = 0.5, txd = "roxwood", txn = "roxwood2"}, --Roxwood
+        [4] = {xOffset = 0.5, yOffset = 0.5, txd = "roxwood", txn = "roxwood3"}, --Roxwood
     
     }
     
