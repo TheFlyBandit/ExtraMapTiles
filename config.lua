@@ -40,7 +40,7 @@ extraTiles = {
         [2] = {xOffset = 0, yOffset = 0, txd = "roxwood", txn = "roxwood"}, --Roxwood
         [3] = {xOffset = 0, yOffset = 0.5, txd = "roxwood", txn = "roxwood2"}, --Roxwood
         [4] = {xOffset = 0.5, yOffset = 0.5, txd = "roxwood", txn = "roxwood3"}, --Roxwood
-    
+        [5] = {xOffset = -0.5, yOffset = 0.5, txd = "roxwood", txn = "roxwood4"}, --Roxwood
     }
     
     
